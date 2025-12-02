@@ -2,8 +2,6 @@
   <img height="150" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2E4MXZveTdnajNlZjhhMmdjbnQxNG5pcWhnaG53dTM0dzAzN3RvZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kgUkCLMu3xhw1T6txv/giphy.gif"  />
 </div>
 
-###
-
 <div align="center">
   <a href="https://www.linkedin.com/in/zaineb-elheni/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
@@ -87,7 +85,6 @@ When I'm not coding or orchestrating containers 🐳, you’ll find me experimen
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zainebhn&layout=compact&theme=radical" />
 </div>
 
-
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zainebhn&theme=radical" height="180"/>
+  <img src="https://streak-stats.demolab.com/?user=zainebhn&theme=radical" height="180"/>
 </div>
