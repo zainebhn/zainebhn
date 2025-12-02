@@ -75,11 +75,10 @@ When I'm not coding or orchestrating containers 🐳, you’ll find me experimen
 
 ###
 
-<h3 align="left">🔥 GitHub Stats</h3>
+<h3 align="left">🔥 My GitHub Stats</h3>
 
-<p align="center">
-  
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zainebhn&layout=compact&theme=radical&hide_border=true" alt="Top languages" />
-  
-  <img height="180" src="https://streak-stats.demolab.com/?user=zainebhn&theme=radical&hide_border=true" alt="GitHub Streak" />
-</p>
+
+
+<div align="center">
+  <img height="180" src="https://streak-stats.demolab.com/?user=zainebhn&theme=radical" alt="GitHub Streak" />
+</div>
