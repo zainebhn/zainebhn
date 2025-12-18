@@ -75,10 +75,12 @@ When I'm not coding or orchestrating containers 🐳, you’ll find me experimen
 
 ###
 
+###
 <h3 align="left">🔥 My GitHub Stats</h3>
 
-
-
 <div align="center">
-  <img height="180" src="https://streak-stats.demolab.com/?user=zainebhn&theme=radical" alt="GitHub Streak" />
+  <!-- Top Languages card – percentages only, no streaks -->
+  <img height="180"
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=zainebhn&langs_count=8&layout=compact&theme=radical"
+       alt="Top Languages" />
 </div>
